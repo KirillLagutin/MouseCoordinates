@@ -1,0 +1,36 @@
+body, html {
+    position: relative;
+    height: 100%;
+    margin: 0;
+    background:rgb(200, 245, 255);
+    font-family: Verdana;
+    font-size: large;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    position: absolute;
+    width: 330px;
+    height: 150px;
+    top: 0;
+    bottom: 0;
+    right: 120px;
+    left: 0;
+    margin: auto;
+    padding-left: 120px;
+    background: transparent;
+}
+
+#xy {
+    position: absolute;
+    width: 120px;
+    height: 100px;
+    margin-top: -100px;
+    padding-left: 20px;
+}
