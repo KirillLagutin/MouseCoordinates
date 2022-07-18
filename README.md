@@ -1,4 +1,4 @@
-# [JS_DZ_MouseCoordinates_Lagutin](https://kirilllagutin.github.io/JS_DZ_MouseCoordinates_Lagutin/)
+# [MouseCoordinates](https://kirilllagutin.github.io/JS_DZ_MouseCoordinates_Lagutin/)
 
 ## Реализовал вывод координат возле курсора
 
